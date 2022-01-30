@@ -1,5 +1,5 @@
-👋 Hi, I’m Jerry Gentry
-I’ve spent my career in IT and am constantly learning. Although I started out engineering core infrastructure for network, compute and storage, I have been in leadership for over 20 years and have reached an executive level. I've looked back at my career and decided I want to learning to code (starting with python) and becoming a pentester. I learned rudimentary coding many years ago, but much has changed and I want more proficiency. In my job cyber security is a focus area, so learning to pentest will provide me insights for architecture and engineering. 
+👋 Hi, I’m **Jerry Gentry**
+I’ve spent my career in IT and am constantly learning. Although I started out engineering core infrastructure for network, compute and storage, I have been _in leadership for over 20 years_ and have reached an executive level. I've looked back at my career and decided I want to learning to code (starting with python) and becoming a pentester. I learned rudimentary coding many years ago, but much has changed and I want more proficiency. In my job cyber security is a focus area, so learning to pentest will provide me insights for architecture and engineering. 
 
 I am open to collaborating on many topics. I am also a writer.  My novel "SYN:FIN" is available on Amazon.
 📫 You can reach me via email jlgrunr@gmail.com
